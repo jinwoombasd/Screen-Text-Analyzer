@@ -91,8 +91,3 @@ Contributions are welcome! Here's how you can help:
 ## Author
 
 Jinwoo Park (jinwoombasd@gmail.com)
-
-## Acknowledgments
-
-- Thanks to Tesseract.js for providing excellent OCR capabilities
-- Thanks to the React community for the amazing development ecosystem
